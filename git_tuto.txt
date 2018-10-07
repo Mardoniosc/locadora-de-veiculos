@@ -1,5 +1,12 @@
-﻿git init
+﻿1° criar repositorio no GITHUB
+
+
+2° ### associando o repositorio ###
+git init
 git remote add origin https://github.com/Mardoniosc/jogos
+
+
+3° ### salvando e atualizando o repositorio online ###
 git add *
-git commit -m "comentários das alterações"
+git commit -m "teste alteração"
 git push origin master
