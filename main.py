@@ -18,6 +18,7 @@ class FrmPrincipal(QMainWindow):
 
     def frm_aluguel_click(self):
         print('aluguel veiculo!')
+        print('aluguel veiculo!')
 
     def frm_cliente_clique(self):
         print('cliente clique!')

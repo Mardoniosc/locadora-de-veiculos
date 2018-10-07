@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82cc8ef7-e53e-4172-9bb6-8557404b1db8" name="Default Changelist" comment="" />
+    <list default="true" id="82cc8ef7-e53e-4172-9bb6-8557404b1db8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Locadora de carro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/BGImg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/FrmIcon_Car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/btnAlugaVeiculo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/btnCadCli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/btnListAluguel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/btnListClientes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/btnListVeiculo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/excluir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/insert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/lupa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/return.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Imagens/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/Comando prompt - ui - py.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmAluguel.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmCliente.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmCliente2.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmPesqAluguel.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmPrincipal.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmPrincipal2.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/FrmVeiculos.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/frmPesqCliente.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/UI/frmPesqVeiculos.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git_tuto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +46,8 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#16#26#0" expanded="true" />
               </folding>
@@ -92,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,7 +141,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,13 +282,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/View/frm_principal.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/View/frm_principal.py" />
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#16#26#0" expanded="true" />
           </folding>
